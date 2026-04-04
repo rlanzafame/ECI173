@@ -1,0 +1,15 @@
+name: eci173
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - jupyter
+  - ipykernel
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - teachbooks
