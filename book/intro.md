@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the ECI 173 Workbook!
 
-_This is the first page the student will see when opening the url._
+This online book (website) will collect a variety of materials to be used in and out of class.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+More later, stay tuned!
